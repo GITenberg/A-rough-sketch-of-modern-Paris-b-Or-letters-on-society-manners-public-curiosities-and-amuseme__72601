@@ -1,0 +1,28 @@
+_repo: A-rough-sketch-of-modern-Paris-b-Or-letters-on-society-manners-public-curiosities-and-amuseme__72601
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lemaistre, John Gustavus
+    gutenberg_agent_id: '56742'
+    url: http://www.gutenberg.org/2009/agents/56742
+description: ''
+gutenberg_issued: '2024-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72601'
+language: en
+pgterms:marc904: https://archive.org/details/roughsketchofmod00lema
+pgterms:marc905: 20210724090717lemaistre
+pgterms:marc906: '1803'
+pgterms:marc907: gb
+production_note: Sonya Schermann and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bJ. Johnson, $c1803.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A rough sketch of modern Paris : $b Or, letters on society, manners, public
+  curiosities, and amusements, in that capital'
+url: http://www.gutenberg.org/ebooks/72601
